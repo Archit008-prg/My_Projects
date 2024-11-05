@@ -19,5 +19,5 @@ Matplotlib and Seaborn: Data visualization.
 Future work
 
 1. Cleaning the data
-2. Performing data pre-processing
+2. Advancement in pre-processed data
 3. Making the predictive model
