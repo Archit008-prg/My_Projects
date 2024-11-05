@@ -14,3 +14,10 @@ Tools and Libraries
 Pandas: Data manipulation and preprocessing.
 NumPy: Numerical computations.
 Matplotlib and Seaborn: Data visualization.
+
+
+Future work
+
+1. Cleaning the data
+2. Performing data pre-processing
+3. Making the predictive model
